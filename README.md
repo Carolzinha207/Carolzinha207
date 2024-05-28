@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas Vindas ao Meu Perfil
 
+Meu nome é Carol Rocha
 
-**Carolzinha207/Carolzinha207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na {Alura} (https://alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Você pode entrar em contato comigo :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Carol.Hirata2020@gmail.com
+
+@CarolROcha921
+
+!{}(https://media1.tenor.com/m/mcKvZl_bfVQAAAAC/comendo-mastigando.gif))
 
