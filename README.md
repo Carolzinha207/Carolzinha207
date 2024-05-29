@@ -10,7 +10,7 @@ Meu nome é Carol Rocha
 
 Carol.Hirata2020@gmail.com
 
-@CarolROcha921
+@Carolrocha921
 
 ![](https://media1.tenor.com/m/mcKvZl_bfVQAAAAC/comendo-mastigando.gif))
 
