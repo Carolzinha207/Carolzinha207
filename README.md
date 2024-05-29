@@ -12,5 +12,5 @@ Carol.Hirata2020@gmail.com
 
 @CarolROcha921
 
-!{}(https://media1.tenor.com/m/mcKvZl_bfVQAAAAC/comendo-mastigando.gif))
+![](https://media1.tenor.com/m/mcKvZl_bfVQAAAAC/comendo-mastigando.gif))
 
